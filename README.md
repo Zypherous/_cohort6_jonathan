@@ -5,3 +5,8 @@ This read me will be worked on after some more tutorials! Getting the repo start
 ## Subheader
 
 Watch tutorial on Youtube.
+
+## Local development
+
+1. Open index.html in your browser
+2. 
